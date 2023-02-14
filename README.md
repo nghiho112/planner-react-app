@@ -18,6 +18,9 @@ Users should be able to:
 
 - Live Site URL: 
 
+### Screenshots
+<img width="524" alt="Screen Shot 2023-02-14 at 10 24 03 AM" src="https://user-images.githubusercontent.com/118095364/218797249-5dbd9538-073d-461e-908d-13c2fd01aa9e.png">
+
 ## Process
 
 ### Built with
